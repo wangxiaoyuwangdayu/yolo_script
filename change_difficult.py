@@ -1,5 +1,5 @@
 '''
-改脚本用来统一xml文件中的difficult和Difficult
+统一xml文件中的difficult和Difficult
 '''
 import xml.etree.ElementTree as ET
 from PIL import Image
